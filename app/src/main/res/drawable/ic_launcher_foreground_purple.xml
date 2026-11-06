@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Encore mark, drawn from the density bitmaps in mipmap-*.
+     Kept under the old resource names so every existing reference (splash, About, Welcome,
+     the onboarding, the app-icon picker) picks the new artwork up unchanged. -->
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@mipmap/ic_launcher_foreground_purple" />
